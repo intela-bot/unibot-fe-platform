@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.vscode
+coverage
+src/i18n/transifex_input.json
+node_modules
+/docs/api
+.env.private
+/temp/
