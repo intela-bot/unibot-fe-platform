@@ -7,3 +7,26 @@ node_modules
 /docs/api
 .env.private
 /temp/
+
+# Files copied from dist/ by postinstall script
+/analytics/
+/auth/
+/i18n/
+/logging/
+/react/
+/scripts/
+/testing/
+/config.js
+/config.js.map
+/constants.js
+/constants.js.map
+/index.js
+/index.js.map
+/initialize.js
+/initialize.js.map
+/pubSub.js
+/pubSub.js.map
+/utils.js
+/utils.js.map
+/LICENSE
+/README.md

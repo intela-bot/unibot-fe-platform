@@ -1,6 +1,6 @@
 {
-  "name": "@edx/frontend-platform",
-  "version": "8.3.4",
+  "name": "@intela/frontend-platform",
+  "version": "1.0.0",
   "description": "Foundational application framework for Open edX micro-frontend applications.",
   "main": "index.js",
   "publishConfig": {
@@ -26,16 +26,8 @@
     "intl-imports.js": "dist/i18n/scripts/intl-imports.js",
     "transifex-utils.js": "dist/i18n/scripts/transifex-utils.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/openedx/frontend-platform.git"
-  },
-  "author": "edX",
+  "author": "Intela",
   "license": "AGPL-3.0",
-  "bugs": {
-    "url": "https://github.com/openedx/frontend-platform/issues"
-  },
-  "homepage": "https://github.com/openedx/frontend-platform#readme",
   "devDependencies": {
     "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
     "@edx/browserslist-config": "1.5.0",
